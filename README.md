@@ -3,7 +3,7 @@ O Repositorio contem todos os arquivos utilizados para a criação de um foguete
 
 # Motor
 O motor foi gerado pelo openMotor idealizado a partir de um impulso total de 9500 Ns, a partir disso foi definida uma fuselagem e sua recuperação. 
-Acerca do próprio motor estiupulei um fator de segurança usando aluminio como material, o FS ficou em cerca de 2,43, estando dentro dos pedidos do processo seletivo.
+Acerca do próprio motor estipulei um fator de segurança usando aluminio como material, o FS ficou em cerca de 2,43, estando dentro dos pedidos do processo seletivo.
 Além do mais não fiz nenhum cad e nenhuma analise estrutural, porém o motor ficou extremamente conciso.
 Foi utilizado os grãos BATES, a curva de arrasto dele está abaixo como podem observar.
 
